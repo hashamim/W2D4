@@ -1,0 +1,26 @@
+div {
+  width: 200px;
+  height: 200px; 
+  padding: 50px;
+  padding: 50px;
+  border-width: 5px;
+  border-style:  solid;
+  border-color:  black;
+  color: whitesmoke;
+  overflow: auto;
+}
+body {
+  
+}
+#first-div {
+  background-color: #39cccc;
+}
+
+#second-div {
+  background-color: #ff4136;
+  float: left;
+}
+
+p {
+  background-color: #7fdbff;
+}
